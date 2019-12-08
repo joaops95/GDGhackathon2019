@@ -1,0 +1,30 @@
+[
+    {
+        "key": 1,
+        "title": "Lixo na rua!!!",
+        "description": "A Rua Vasco da Gama está cheio de lixo desde a passada da semana. Está na altura de agir!",
+        "photosURLs": ["http://fake1.url"],
+        "location": [12.41, 41.05]
+    },
+    {
+        "key": 2,
+        "title": "Mata por tratar",
+        "description": "Pessoal, logo no início norte da Serra de Sintra",
+        "photosURLs": ["http://fake2.url"],
+        "location": [12.41, 41.05]
+    },
+    {
+        "key": 3,
+        "title": "Ajuda limpar terreno",
+        "description": "Necessito ajuda terreno que nao consigo tratar sozinho.",
+        "photosURLs": ["http://fake3.url"],
+        "location": [12.41, 41.05]
+    },
+    {
+        "key": 4,
+        "title": "Praia impossibilitada",
+        "description": "Praia das Avencas cheia de lixo. Necessitam-se voluntarios para limpar.",
+        "photosURLs": ["http://fake4.url"],
+        "location": [12.41, 41.05]
+    }
+]
